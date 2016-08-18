@@ -1,0 +1,26 @@
+.column {
+  width: 222px;
+  float: center;
+}
+
+.kangaroo {
+  width: 150px;
+  background-color: purple;
+  font-weight: bold;
+
+}
+.kangaroo p {
+  font-size: 22px;
+  font-style: italic;
+}
+
+.wombat {
+  width: 333px;
+  background-color: grey;
+  font-weight: bolder;
+}
+
+.wombat p {
+  font-size: 10px;
+  font-style: normal;
+}
